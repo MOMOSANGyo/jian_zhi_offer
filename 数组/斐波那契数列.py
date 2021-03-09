@@ -11,6 +11,10 @@
 
 class Solution:
     def Fibonacci(self, n):
+        """
+        :param n:
+        :return:
+        """
         # write code here
 
         f = [[0 for i in range(40)] for i in range(40)]
