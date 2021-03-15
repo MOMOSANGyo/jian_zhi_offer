@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Author: zhangxin
 # Date: 2021/2/1
-# Desc:斐波那契数列是将杨辉三角按斜线
+# Desc:斐波那契数列是将杨辉三角按斜线，fn = fn-1+fn-2
 # Param:
 # Function:
 # -*- coding:utf-8 -*-
