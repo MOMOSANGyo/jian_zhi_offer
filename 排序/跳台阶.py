@@ -6,8 +6,6 @@
 # Param:
 # Function:
 class Solution:
-    def __init__(self):
-        self.num = 0
     #     复杂度高
     # def jumpFloor(self, number):
     #     if number == 1:
@@ -44,4 +42,4 @@ class Solution:
 
 if __name__ == '__main__':
     ss =Solution()
-    print(ss.jumpFloor(2))
+    print(ss.jumpFloor(4))
